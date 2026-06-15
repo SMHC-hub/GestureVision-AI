@@ -93,3 +93,6 @@ logs/
 .DS_Store
 .AppleDouble
 .LSOverride
+
+
+*.Gesture Image Data/
