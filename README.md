@@ -1,11 +1,13 @@
-# Gesture Recognition Using Custom Dataset
+# ✋ GestureVision-AI
+### Real-Time 36-Class Alphanumeric Hand Gesture Recognition Using MediaPipe Landmarks and Deep CNNs
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org)
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-Enabled-brightgreen.svg)](https://mediapipe.dev)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8.svg)](https://opencv.org)
 
-A deep learning pipeline and real-time hand gesture recognition system built with Convolutional Neural Networks (CNN), MediaPipe, and OpenCV.
+An end-to-end computer vision pipeline and real-time hand gesture recognition system built with Convolutional Neural Networks (CNN), MediaPipe 3D hand landmark extraction, and OpenCV.
 
 ## Overview
 
